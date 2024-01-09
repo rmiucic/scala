@@ -1,9 +1,9 @@
-# CarND-Path-Planning-Project
+# Scala Learning Sandbox
 [//]: # (Image References)
 [scala]: ./Scala_Logo.png "Scala Logo"
 
 
-Self-Driving Car Engineer Nanodegree Program<br/>
+This page is dedicated to the learnings of scala<br/>
 ![alt text][scala]<br/>
 ## How to get Scala
 1. get sbt (simple build tool) from ()
